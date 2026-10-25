@@ -1,3 +1,13 @@
+## Français
+
+Interface web du protocole Credence : connexion de portefeuille Stellar, gestion des obligations USDC et consultation de scores de confiance. Exemple : utiliser l’interface avec le backend et les contrats Soroban configurés.
+
+## English
+
+Web interface for the Credence protocol: connect a Stellar wallet, manage USDC bonds, and view trust scores. Example: use the UI with the configured backend and Soroban contracts.
+
+---
+
 # Credence Frontend
 
 Web UI for the Credence economic trust protocol. Connect a Stellar wallet, create or manage USDC bonds, and view trust scores.
